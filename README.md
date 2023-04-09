@@ -4,7 +4,7 @@
 ## In this notebook, I use a dataset contained 69 million rows with 7 variables from Reddid at [here](https://files.pushshift.io/reddit/69M_reddit_accounts.csv.gz)
 ## This csv.gz is large 1005Mb and an extracted to *CSV file is 3.3Gb.
 ## If you convert *csv to *parquet and/or *feather, file sizes are reduced to 893.7MB for *parquet and 805.6MB for *feather.
-## The overall comparison of *csv, *parquet, and *feather formats can be summarized [here](https://twitter.com/levikul09/status/1644629913440501763/photo/1).
+## The overall comparison of *csv, *parquet, and *feather formats can be [found and credited here](https://twitter.com/levikul09/status/1644629913440501763/photo/1).
 ![alt text](https://pbs.twimg.com/media/FtLmMH4aQAA7qgk?format=png&name=medium)
 
 # Part 1: Reading and describing a large *csv file!!!
