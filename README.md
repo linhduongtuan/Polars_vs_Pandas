@@ -1,4 +1,5 @@
-## Comparision performance of Polars and Pandas in reading large files in several formats. The overall comparison of *csv, *parquet, and *feather formats can be [found and credited here](https://twitter.com/levikul09/status/1644629913440501763/photo/1).
+## Comparision performance of Polars and Pandas in reading large files in several formats. 
+### The overall technique comparison of *csv, *parquet, and *feather formats can be [found and credited here](https://twitter.com/levikul09/status/1644629913440501763/photo/1).
 ![alt text](https://pbs.twimg.com/media/FtLmMH4aQAA7qgk?format=png&name=medium)
 **_I try to compare performance of Polars and Pandas in reading large files using *csv, *parquet and *feather formats_**
 ### This notebook aims to compare performance of reading/loading large file formats using Pandas and Polars
