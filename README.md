@@ -1,5 +1,5 @@
 # Comparision performance of Polars and Pandas in reading large files in several formats.
-**I try to compare performance of Polars and Pandas in reading large files using *csv, *parquet and *feather formats**
+**_I try to compare performance of Polars and Pandas in reading large files using *csv, *parquet and *feather formats_**
 ## This notebook aims to compare performance of reading/loading large file formats using Pandas and Polars
 ## In this notebook, I use a dataset contained 69 million rows with 7 variables from Reddid at [here](https://files.pushshift.io/reddit/69M_reddit_accounts.csv.gz)
 ## This csv.gz is large 1005Mb and an extracted to *CSV file is 3.3Gb.
